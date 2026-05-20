@@ -1,16 +1,37 @@
-## Hi there 👋
+                                                                
+                         ███▓▓▒░░░▓███                          I am Shyngyskhan Sagyt:
+                    ██▓░░             ░▒▒▓█                             a high school robotics guy (WRO RMS, CAD, Studio 2.0)
+                  ██  ░  ░▒██████▒▒████   ███                           phys researcher (Solar GraphitePCM, Euler's Disk)          
+                █░  ░▒▒██▓▒▒░   ░█████████▓  ▓█▓                        and tech guy (TOP-4 Decentrathon 5.0, ML, LexLens)
+              ██▒░░▒▓▓▒▒▒▒▒▓▒▒▓▓█████████████ ░██                       based in Astana, Kazakhstan.
+             ████▓▓▓▒▒▓▓▓▓▒▓▓▒▒▒░   ░▒▒███████████              
+           ██    █▓▓▒▒▒▒▒▓▒▓▓▓▓▓▓▓▒▒░░░   ░░▓██   ▒             Currently studying at NIS Astana-Nura'29
+           █    ██▓▓▓▓▓▓▓▓▓▒▒▒▒▒▒▓▒▒▓▓▒▒▒▒▒░░░█▒░  █            
+          ██   ░█▓▒▒▒▒▒▓▓▓▒▒▓▓▒▒▓▓▓▓▒▒▒▓▒▒▓▒▒▒▓█    █           ...Im kinda tired so i wont write much ab myself for now
+          ██████▓▒▓▓▓▓▓▓▒▒▓▒▓▓▓▓▒▒▒▓▒▓▓▓▓▓▓▒▓▓▓████▓█           
+         ██░▒▓▓▓▓▓▓▒▒▒▒▓▒▓▒▓▒▒▒▓▓▓▓▓▓▒▒▒▒▒▒▒▒▒▒▒▓▓▒ ▓▓          
+         ████████▓▓▓▒▒▒▒░░░░░░░░░░      ░     ░ ░░  ██          
+              ░░▒▒▒▓▓▓██████████████████████████████▒           
+            ▒▒▒▒▒▒▒▒▒▓▒▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓█▓▓▓▓▓▓▓▓▓░           
+          ▒ ░░░▒▒▒▒▒▒▒▒▓▓▓▓▓▓▓▓▒▓▒▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▒            
+          ░  ░▒░▒▒▒▒▒▒▒▒▓▓▒▓▓▓▒▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓░ ░           
+           █  ░░▒░▒▒▒▒▒▒▒▓▒▓▓▓▒▓▓▓▒▓▓▓▓▓▓▓▓▓▓▓▓▓▒  █            
+            █   ░░░▒▒▒▒▒▒▓▒▒▓▓▓▓▓▓▒▓▓▓▒▓▓▓▓▒▓▓▒▒ ▒█             
+             █▒   ░░░░▒▒▒▒▒▒▒▒▒▒▒▓▒▓▓▒▓▓▓▓▓▒▓▒  ▒█              
+              █▓░     ░░▒░▒░▒▒▒▒▒▒▒▒▓▒▒▒▒▒▒    ▓                
+                █▓░▓░        ░░░░░░          ██                 
+                  ▓░░░▓█▒░           ░▒▓▒░░█▓                   
+                     ▒██▓▓ ▒███████▓░   ██                      
+                         ██▓░      ▒▓█                          
+ More info ab me: <a href=linkedin.com/in/shyngyskhan-sagyt-4ab77a250/>linkedin</a>                                                                
+                                                                
 
-<!--
-**Shyngyskhan-333/Shyngyskhan-333** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+ 
 
-Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+
+
+
+                                                          
+                                                                
+                                                                
