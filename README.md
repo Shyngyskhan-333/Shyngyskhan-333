@@ -27,14 +27,14 @@
 
  Top 4(3) (same points with Top 3) / 2200+ teams - Decenthon 5.0 (LexLens AI)\
  2nd Place - WRO Regional RMS 2026\
- Innovation Research Competition Finalist (Highest RESEARCH VALUE among 10 finalists out of 288 teams)\
+ Innovation Research Competition Finalist (Highest RESEARCH VALUE among 10 finalists out of 288 teams)
 
 
 # Current work
 
 building LexLens — legal AI analysis platform\
 robotics engineering for WRO\
-researching graphite-PCM thermal systems for solar panels\
+researching graphite-PCM thermal systems for solar panels
 
 
 # Stack
@@ -60,7 +60,7 @@ researching graphite-PCM thermal systems for solar panels\
 # More info ab me 
 
 linkedin: https://www.linkedin.com/in/shyngyskhan-sagyt-4ab77a250/ \
-tg channel: https://t.me/shyngyskhansagyt \
+tg channel: https://t.me/shyngyskhansagyt 
 
 
 
